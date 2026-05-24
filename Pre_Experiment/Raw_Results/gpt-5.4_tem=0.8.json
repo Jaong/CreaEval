@@ -1,0 +1,1562 @@
+{
+    "Step-1": {
+        "Fluency": {
+            "A10_FS6": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.966
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.934
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.94
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.929
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.933
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.934
+                }
+            },
+            "B03_FS5": {
+                "item_1": {
+                    "bleu": 0.125,
+                    "bert": 0.864
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.853
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.86
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.856
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.848
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.854
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.854
+                },
+                "item_8": {
+                    "bleu": 0.079,
+                    "bert": 0.858
+                }
+            },
+            "A01_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.851
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.868
+                },
+                "item_3": {
+                    "bleu": 0.252,
+                    "bert": 0.821
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.865
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.861
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.861
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.858
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.857
+                }
+            },
+            "B10_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.861
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.854
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.844
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.84
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.852
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.845
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.845
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.84
+                }
+            },
+            "A04_FS10": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.505,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.505,
+                    "bert": 0.997
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "B09_FS3": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.931
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.932
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.926
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.942
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.919
+                }
+            },
+            "A05_FS5": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.505,
+                    "bert": 0.999
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A07_FS1": {
+                "item_1": {
+                    "bleu": 0.379,
+                    "bert": 0.826
+                },
+                "item_2": {
+                    "bleu": 0.379,
+                    "bert": 0.825
+                },
+                "item_3": {
+                    "bleu": 0.379,
+                    "bert": 0.83
+                },
+                "item_4": {
+                    "bleu": 0.379,
+                    "bert": 0.822
+                },
+                "item_5": {
+                    "bleu": 0.379,
+                    "bert": 0.824
+                },
+                "item_6": {
+                    "bleu": 0.379,
+                    "bert": 0.828
+                },
+                "item_7": {
+                    "bleu": 0.379,
+                    "bert": 0.826
+                },
+                "item_8": {
+                    "bleu": 0.379,
+                    "bert": 0.825
+                }
+            },
+            "A06_FS8": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A08_FS10": {
+                "item_1": {
+                    "bleu": 0.505,
+                    "bert": 0.887
+                },
+                "item_2": {
+                    "bleu": 0.505,
+                    "bert": 0.885
+                },
+                "item_3": {
+                    "bleu": 0.379,
+                    "bert": 0.883
+                },
+                "item_4": {
+                    "bleu": 0.505,
+                    "bert": 0.884
+                },
+                "item_5": {
+                    "bleu": 0.505,
+                    "bert": 0.884
+                },
+                "item_6": {
+                    "bleu": 0.505,
+                    "bert": 0.887
+                },
+                "item_7": {
+                    "bleu": 0.379,
+                    "bert": 0.885
+                },
+                "item_8": {
+                    "bleu": 0.505,
+                    "bert": 0.887
+                }
+            }
+        },
+        "Flexbility": {
+            "A10_FS6": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 0.951
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "B03_FS5": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.505,
+                    "bert": 0.94
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.505,
+                    "bert": 0.935
+                }
+            },
+            "A01_FS7": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.505,
+                    "bert": 0.95
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.505,
+                    "bert": 0.933
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "B10_FS7": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.505,
+                    "bert": 0.95
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A04_FS10": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.505,
+                    "bert": 0.915
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.852,
+                    "bert": 0.863
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 0.913
+                }
+            },
+            "B09_FS3": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A05_FS5": {
+                "item_1": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 0.9
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_7": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                }
+            },
+            "A07_FS1": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.505,
+                    "bert": 0.931
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 0.505,
+                    "bert": 0.929
+                },
+                "item_6": {
+                    "bleu": 0.852,
+                    "bert": 0.853
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A06_FS8": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.505,
+                    "bert": 0.966
+                },
+                "item_7": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            },
+            "A08_FS10": {
+                "item_1": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_3": {
+                    "bleu": 0.505,
+                    "bert": 0.908
+                },
+                "item_4": {
+                    "bleu": 0.631,
+                    "bert": 0.899
+                },
+                "item_5": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.505,
+                    "bert": 0.929
+                },
+                "item_7": {
+                    "bleu": 0.505,
+                    "bert": 0.908
+                },
+                "item_8": {
+                    "bleu": 0.631,
+                    "bert": 1.0
+                }
+            }
+        },
+        "Elaboration": {
+            "A10_FS6": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.944
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.921
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.934
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.921
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.9
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.907
+                }
+            },
+            "B03_FS5": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.917
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.911
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.904
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.9
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.909
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.908
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.904
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.915
+                }
+            },
+            "A01_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.898
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.904
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.92
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.92
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.903
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.905
+                }
+            },
+            "B10_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.91
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.911
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.911
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.908
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.912
+                }
+            },
+            "A04_FS10": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.952
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.86
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.933
+                },
+                "item_4": {
+                    "bleu": 0.6,
+                    "bert": 0.822
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.929
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.938
+                }
+            },
+            "B09_FS3": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.935
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.928
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.918
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.915
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.941
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.932
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.936
+                }
+            },
+            "A05_FS5": {
+                "item_1": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.091,
+                    "bert": 0.931
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.928
+                },
+                "item_7": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                }
+            },
+            "A07_FS1": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.903
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.907
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.903
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.907
+                },
+                "item_6": {
+                    "bleu": 0.6,
+                    "bert": 0.831
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.904
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.924
+                }
+            },
+            "A06_FS8": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.931
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.933
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.939
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.928
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.932
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.932
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.944
+                }
+            },
+            "A08_FS10": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.938
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.926
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.839
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.939
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.924
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.92
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.837
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.933
+                }
+            }
+        },
+        "Originality": {
+            "A10_FS6": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.936
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.909
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.902
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.9
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.921
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.909
+                }
+            },
+            "B03_FS5": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.868
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.836
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.838
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.83
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.844
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.837
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.834
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.832
+                }
+            },
+            "A01_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.908
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.924
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.92
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.908
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.908
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.922
+                }
+            },
+            "B10_FS7": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.919
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.912
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.901
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.907
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.913
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.905
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.884
+                }
+            },
+            "A04_FS10": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.933
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.829
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.912
+                },
+                "item_4": {
+                    "bleu": 0.6,
+                    "bert": 0.828
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.928
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.93
+                }
+            },
+            "B09_FS3": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.895
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.914
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.924
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.9
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.905
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.907
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.926
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.894
+                }
+            },
+            "A05_FS5": {
+                "item_1": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.902
+                },
+                "item_3": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_4": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.895
+                },
+                "item_7": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_8": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                }
+            },
+            "A07_FS1": {
+                "item_1": {
+                    "bleu": 0.252,
+                    "bert": 0.812
+                },
+                "item_2": {
+                    "bleu": 0.252,
+                    "bert": 0.814
+                },
+                "item_3": {
+                    "bleu": 0.252,
+                    "bert": 0.806
+                },
+                "item_4": {
+                    "bleu": 0.252,
+                    "bert": 0.817
+                },
+                "item_5": {
+                    "bleu": 0.252,
+                    "bert": 0.81
+                },
+                "item_6": {
+                    "bleu": 0.6,
+                    "bert": 0.834
+                },
+                "item_7": {
+                    "bleu": 0.252,
+                    "bert": 0.811
+                },
+                "item_8": {
+                    "bleu": 0.252,
+                    "bert": 0.814
+                }
+            },
+            "A06_FS8": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.838
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.867
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.843
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.849
+                },
+                "item_5": {
+                    "bleu": 1.0,
+                    "bert": 1.0
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.827
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.83
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.829
+                }
+            },
+            "A08_FS10": {
+                "item_1": {
+                    "bleu": 0.0,
+                    "bert": 0.911
+                },
+                "item_2": {
+                    "bleu": 0.0,
+                    "bert": 0.89
+                },
+                "item_3": {
+                    "bleu": 0.0,
+                    "bert": 0.826
+                },
+                "item_4": {
+                    "bleu": 0.0,
+                    "bert": 0.901
+                },
+                "item_5": {
+                    "bleu": 0.0,
+                    "bert": 0.894
+                },
+                "item_6": {
+                    "bleu": 0.0,
+                    "bert": 0.901
+                },
+                "item_7": {
+                    "bleu": 0.0,
+                    "bert": 0.83
+                },
+                "item_8": {
+                    "bleu": 0.0,
+                    "bert": 0.896
+                }
+            }
+        }
+    },
+    "Step-2": {
+        "Condition Phrase": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.954
+            },
+            "B03_FS5": {
+                "bleu": 0.249,
+                "bert": 0.946
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.959
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.938
+            },
+            "A04_FS10": {
+                "bleu": 0.0,
+                "bert": 0.945
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.933
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.958
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.947
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.954
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.941
+            }
+        },
+        "Stem & KVP": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.946
+            },
+            "B03_FS5": {
+                "bleu": 0.283,
+                "bert": 0.956
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.937
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.935
+            },
+            "A04_FS10": {
+                "bleu": 0.379,
+                "bert": 0.985
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.979
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.955
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.947
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.942
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.954
+            }
+        },
+        "Purpose": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.96
+            },
+            "B03_FS5": {
+                "bleu": 0.217,
+                "bert": 0.938
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.939
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.959
+            },
+            "A04_FS10": {
+                "bleu": 0.0,
+                "bert": 0.924
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.927
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.936
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.944
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.948
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.937
+            }
+        },
+        "FS Parameters": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.96
+            },
+            "B03_FS5": {
+                "bleu": 0.217,
+                "bert": 0.971
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.931
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.938
+            },
+            "A04_FS10": {
+                "bleu": 0.0,
+                "bert": 0.948
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.939
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.944
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.953
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.946
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.955
+            }
+        },
+        "Focus": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.937
+            },
+            "B03_FS5": {
+                "bleu": 0.217,
+                "bert": 0.931
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.932
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.923
+            },
+            "A04_FS10": {
+                "bleu": 0.0,
+                "bert": 0.925
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.93
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.941
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.936
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.937
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.928
+            }
+        },
+        "Adequacy": {
+            "A10_FS6": {
+                "bleu": 0.0,
+                "bert": 0.931
+            },
+            "B03_FS5": {
+                "bleu": 0.178,
+                "bert": 0.929
+            },
+            "A01_FS7": {
+                "bleu": 0.0,
+                "bert": 0.929
+            },
+            "B10_FS7": {
+                "bleu": 0.0,
+                "bert": 0.92
+            },
+            "A04_FS10": {
+                "bleu": 0.0,
+                "bert": 0.923
+            },
+            "B09_FS3": {
+                "bleu": 0.0,
+                "bert": 0.939
+            },
+            "A05_FS5": {
+                "bleu": 0.0,
+                "bert": 0.928
+            },
+            "A07_FS1": {
+                "bleu": 0.29,
+                "bert": 0.928
+            },
+            "A06_FS8": {
+                "bleu": 0.0,
+                "bert": 0.943
+            },
+            "A08_FS10": {
+                "bleu": 0.0,
+                "bert": 0.935
+            }
+        }
+    }
+}
